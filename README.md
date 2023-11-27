@@ -1,2 +1,3 @@
-# Desafios para la escuela
+# Ejercicios
 - CPP y JS
+- Actividades Escolares
